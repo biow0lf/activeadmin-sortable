@@ -9,7 +9,7 @@ This extension assumes that you're using one of the following on any model you w
 
 #### ActiveRecord
 
-[acts_as_list](https://github.com/rails/acts_as_list)
+[acts_as_list](https://github.com/swanandp/acts_as_list)
 
 ```ruby
 class Page < ActiveRecord::Base
